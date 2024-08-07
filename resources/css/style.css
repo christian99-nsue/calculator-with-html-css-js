@@ -18,8 +18,9 @@ main{
     padding-left: 18px;
 }
 table tbody{
-    position: relative;
-    padding-left: 20px;
+    position: absolute;
+    padding-left: 0px;
+    bottom: 40px;
 }
 table tbody tr td{
     height: 70px;
@@ -53,7 +54,7 @@ button{
 p{
     font-size: 50px;
     padding-top: 50px;
-    padding-bottom: 20px;
     color: white;
     text-align: right;
+    margin-right: 10px;
 }
